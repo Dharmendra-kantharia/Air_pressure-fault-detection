@@ -48,3 +48,7 @@ main --> is your branch name
 
 to pull your changes from github repo
 '''
+git pull origin main
+
+Note: origin --> contains url to your github repo main --> is your branch name
+
